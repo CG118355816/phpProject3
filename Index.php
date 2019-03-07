@@ -114,12 +114,16 @@ body {
   <div class="navbar">
   <a href="http://localhost:8000/CV.html">My CV</a>
   <a href="http://localhost:8000/interests.html">Interests</a>
-  <a href="http://localhost:8000/EBus.php">Services</a>
+  <a href="http://localhost:8000/consultingservices.html">Services</a>
   </div>
         
         <div class="main">
-     <h1 align="center">Welcome</h1> 
+            <center>
+           <h1 align="center">Welcome</h1> 
+           <h2><a style="color: yellow;"  href="https://github.com/CG118355816/phpProject3">My Github</a></h2>
+           <h2><a  style="color: yellow;" href="https://cg118355816.herokuapp.com/">My Heroku</a></h2>
+     
      <img src="agenda.jpg" alt="meeting" style="width:1375px;height:600px;">
-        </div> 
+         </div>
     </body>
 </html>
