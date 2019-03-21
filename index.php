@@ -112,9 +112,9 @@ body {
    </div> 
 
   <div class="navbar">
-  <a href="http://localhost:8000/CV.html">My CV</a>
-  <a href="http://localhost:8000/interests.html">Interests</a>
-  <a href="http://localhost:8000/consultingservices.html">Services</a>
+  <a href="CV.html">My CV</a>
+  <a href="interests.html">Interests</a>
+  <a href="consultingservices.html">Services</a>
   </div>
         
         <div class="main">
